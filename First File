@@ -1,6 +1,5 @@
 public class test {
     string name;
     Scanner scan = new Scanner(System.in);
-    name = scan.next();
-    System.out.println(name);
+    System.out.println("My Name is Dibya Niranjan Behera");
 }
