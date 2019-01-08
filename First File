@@ -1,4 +1,6 @@
 public class test {
-    test(){}
-    
+    string name;
+    Scanner scan = new Scanner(System.in);
+    name = scan.next();
+    System.out.println(name);
 }

@@ -1,7 +1,6 @@
 public class test {
-    test()
-    
-    asdfa
-    asdfaasdf
-    asdfa
+    string name;
+    Scanner scan = new Scanner(System.in);
+    name = scan.next();
+    System.out.println(name);
 }
